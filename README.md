@@ -1,4 +1,4 @@
 # Code
 This is my first Repository
-my name is fahad 
+Hi i am CodexPrime
 helllo
